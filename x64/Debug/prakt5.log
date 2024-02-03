@@ -1,0 +1,6 @@
+﻿  utils.cpp
+  prakt5.cpp
+  utils.h
+  Создание кода...
+x64\Debug\utils.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  prakt5.vcxproj -> C:\Users\Incl\Desktop\CPP\prakt5\x64\Debug\prakt5.exe
